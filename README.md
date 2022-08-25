@@ -1,7 +1,6 @@
 ### Всем добра 🍀
 
-<!--
-**E1ena-SH/E1ena-SH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Пока эта странница будет на "русском" языке  🌟
 
@@ -13,3 +12,5 @@
 
 Мои работы по ходу обучения будут сохраняться в этом сервисе, что ж приятного просмотра😉
 
+<!--
+**E1ena-SH/E1ena-SH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
